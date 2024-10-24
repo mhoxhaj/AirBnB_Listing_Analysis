@@ -1,5 +1,5 @@
-# AirBnB_Listing_Analysis
-This project focuses on analyzing AirBnB listings in Paris to understand the impact of recent regulations on the rental market. 
+# Airbnb_Listing_Analysis
+This project focuses on analyzing Airbnb listings in Paris to understand the impact of recent regulations on the rental market. 
 The goal is to clean, prepare, and visualize the data, focusing on trends related to price, accommodations, and host activity over time. 
 Key tasks include data profiling, quality assurance, and visualization to uncover insights on how regulations affect the number of new hosts and price levels.
 ### Objective 1: Profile & QA the Data
