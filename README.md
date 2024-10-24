@@ -2,8 +2,6 @@
 This project focuses on analyzing AirBnB listings in Paris to understand the impact of recent regulations on the rental market. 
 The goal is to clean, prepare, and visualize the data, focusing on trends related to price, accommodations, and host activity over time. 
 Key tasks include data profiling, quality assurance, and visualization to uncover insights on how regulations affect the number of new hosts and price levels.
-
-Objectives
 ## Objective 1: Profile & QA the Data
 a. Connect to the Listings.csv file: Import the AirBnB data from the provided Listings.csv file.
 b. Clean and prepare data: Convert any date columns (e.g., host_since) into datetime format to ensure proper analysis.
